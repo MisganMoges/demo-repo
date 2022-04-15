@@ -40,7 +40,7 @@ var player = testObj[playerNumber];
 console.log(player);
 
 
-
+name = " I am struggling alot but I can't commit the file from the local machine the I will carry on until I succed";
 
 
 
